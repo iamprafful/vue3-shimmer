@@ -1,6 +1,6 @@
 {
   "name": "vue3-shimmer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creates a loading placeholder, just like facebook cards",
   "main": "dist/vue3-shimmer.ssr.js",
   "browser": "dist/vue3-shimmer.esm.js",
