@@ -23,7 +23,7 @@ app.use(Shimmer);
 
 app.mount('#app');
 ````
-or add locally in your Vue componenet
+or add locally in your Vue component
 ```js
 import { CardShimmer, ParagraphShimmer, FreeStyleShimmer } from 'shimmer'
 
@@ -81,7 +81,7 @@ export default {
 | border-radius | String  | `10px` `1.5rem` `80%`        | Border radius of your shimmer component    | `5px`              |
 | color         | String  | `#fbfbfb` `rgb(211,211,211)` | Background color of your shimmer component | `rgb(211,211,211)` |
 
-# Licemse
+# License
 
 MIT License
 
