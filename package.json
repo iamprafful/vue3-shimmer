@@ -1,6 +1,6 @@
 {
   "name": "vue3-shimmer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a loading placeholder, just like facebook cards",
   "main": "dist/vue3-shimmer.ssr.js",
   "browser": "dist/vue3-shimmer.esm.js",
@@ -10,7 +10,11 @@
     "type": "git",
     "url": "https://github.com/prafful98/vue3-shimmer.git"
   },
-  "keywords": ["vue.js", "vue 3", "shimmer"],
+  "keywords": [
+    "vue.js",
+    "vue 3",
+    "shimmer"
+  ],
   "author": "Prafful Lachhwani",
   "license": "ISC",
   "bugs": {
